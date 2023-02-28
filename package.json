@@ -7,7 +7,14 @@
   },
   "dependencies": {
     "next": "latest",
+    "pdfjs-dist": "^3.4.120",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-pdf": "^6.2.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
   }
 }
